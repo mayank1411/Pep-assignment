@@ -3,7 +3,8 @@
 useState assignment
 
 
-https://user-images.githubusercontent.com/108147460/215393581-62458bd7-f894-488f-bdb9-e4bfff200ec4.mp4
+https://user-images.githubusercontent.com/108147460/215503796-8f3b0aad-8f4d-4c7a-a816-005e2ec06474.mp4
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Props assignment
 
